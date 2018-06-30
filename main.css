@@ -1,4 +1,12 @@
 
+body{
+    background-color: #222;
+    color: #ccc
+}
+a{
+    color: #ccc;
+}
+
 div.gallery {
     border: 1px solid #ccc;
 }
@@ -44,4 +52,7 @@ div.desc {
     content: "";
     display: table;
     clear: both;
+}
+.centerText{
+  text-align: center;
 }
